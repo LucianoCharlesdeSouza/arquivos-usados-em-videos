@@ -21,6 +21,7 @@
                 <div class="form-group">
 
                     <input type="file"
+                           accept="image/*"
                            name="user_avatar"
                            class="btn-file text-center center-block file-upload">
 
