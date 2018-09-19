@@ -4,6 +4,12 @@
         <meta charset="UTF-8">
         <title>Preview-Upload</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <style>
+            input[type="file"]{
+                color: transparent;
+                display: none;
+            }
+        </style>
     </head>
     <body>
         <br/>
