@@ -17,6 +17,7 @@
                                  class="avatar img-circle img-thumbnail"
                                  alt="avatar">
                             <input type="file"
+                                   accept="image/*"
                                    name="user_avatar"
                                    class="btn-file text-center center-block file-upload">
                         </div>
